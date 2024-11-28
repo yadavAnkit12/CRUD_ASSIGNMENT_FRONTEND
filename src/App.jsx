@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import Navbar from './components/Navbar';
 import SignIn from './components/SignIn';
-import DashBoard from './components/Dashboard';
+import DashBoard from './components/DashBoard';
 import TaskList from './components/TaskList';
 
 export default function App() {

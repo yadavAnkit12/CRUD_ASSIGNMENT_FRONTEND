@@ -1,0 +1,21 @@
+.summary{
+    display: flex;
+    gap: 5rem;
+}
+.summary-main{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.summary-text{
+    color: blue;
+    font-size: 54px;
+    font-weight: bold;
+}
+.summary-label{
+    font-size: 20px;
+    font-weight: 700;
+    color: grey;
+    margin-top: -3rem;
+}

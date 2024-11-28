@@ -1,0 +1,10 @@
+.sortBtn{
+    width: 80px;
+    background-color: gray;
+    border-radius: 16px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
